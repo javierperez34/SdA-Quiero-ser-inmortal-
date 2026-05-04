@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605041559346OYITQ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260504155934T68O9R</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA Inmortalidad</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Transhumanismo en el aula</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Javier Pérez Moreno</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El proyecto se centra en el análisis filosófico del transhumanismo y la inteligencia artificial, tomando como eje el problema de la identidad personal y los límites de lo humano en un contexto de transformación digital.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777898826473</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777901070660-d7jbwrhi9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777901070660-d7jbwrhi9</odePageId>
+      <odeBlockId>block-1777901078524-qjtw63ao3</odeBlockId>
+      <blockName>¿A qué nos enfrentamos?</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777901070660-d7jbwrhi9</odePageId>
+          <odeBlockId>block-1777901078524-qjtw63ao3</odeBlockId>
+          <odeIdeviceId>idevice-1777901078523-f9xtuuaai</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos y bienvenidas, chicos y chicas. Vamos a hacer un repaso por la nueva SdA que vamos a afrontar. <br />¿Alguna vez te has preguntado qué te hace un ser humano? ¿Qué te diferencia de un androide? ¿Sigues siendo la misma persona si vives mil años? ¿Y si vencemos a la muerte? <br /><br />En esta SdA aprenderemos a dar respuesta a todas estas preguntas de manera razonada. <br /><br />¡Ánimo!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777901078523-f9xtuuaai","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos y bienvenidas, chicos y chicas. Vamos a hacer un repaso por la nueva SdA que vamos a afrontar. <br />¿Alguna vez te has preguntado qué te hace un ser humano? ¿Qué te diferencia de un androide? ¿Sigues siendo la misma persona si vives mil años? ¿Y si vencemos a la muerte? <br /><br />En esta SdA aprenderemos a dar respuesta a todas estas preguntas de manera razonada. <br /><br />¡Ánimo!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>7905ca33-8fd5-4530-807b-eace8ce86c98</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y Descripción</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y Descripción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>7905ca33-8fd5-4530-807b-eace8ce86c98</odePageId>
+      <odeBlockId>block-1777898848610-3yrbxy21u</odeBlockId>
+      <blockName>Proyecto</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>7905ca33-8fd5-4530-807b-eace8ce86c98</odePageId>
+          <odeBlockId>block-1777898848610-3yrbxy21u</odeBlockId>
+          <odeIdeviceId>idevice-1777898848605-dv9iuw1yb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Temporalización aproximada</strong>: 9 sesiones (3 semanas) en noviembre-diciembre (primera evaluación) <br /><strong>Materia o materias implicadas</strong>: Se realiza en Filosofía, pero tiene relación con LCL (expresión oral y argumentación) y Biología (relación con el cuerpo, identidad y límites biológicos)<br /><strong>Idioma</strong>: Castellano<br /><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</strong>: Este proyecto tiene como finalidad que el alumnado reflexione de manera crítica sobre qué significa ser humano en un contexto marcado por el desarrollo tecnológico, especialmente en relación con el transhumanismo y la inteligencia artificial.<br /><strong>Conceptos filosóficos a estudiar</strong>: <br />- La identidad personal<br />- La relación mente-cuerpo<br />- La distinción entre realidad y virtualidad<br />- Los límites del transhumanismo<br /><strong>Metodologías</strong>: El aprendizaje se desarrollará mediante metodologías activas como el aprendizaje cooperativo, el debate filosófico y el uso de herramientas digitales. Se fomentará la investigación autónoma, el análisis de fuentes diversas (textos filosóficos, audiovisuales, contenidos digitales) y la reflexión crítica.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777898848605-dv9iuw1yb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Temporalización aproximada</strong>: 9 sesiones (3 semanas) en noviembre-diciembre (primera evaluación) <br /><strong>Materia o materias implicadas</strong>: Se realiza en Filosofía, pero tiene relación con LCL (expresión oral y argumentación) y Biología (relación con el cuerpo, identidad y límites biológicos)<br /><strong>Idioma</strong>: Castellano<br /><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</strong>: Este proyecto tiene como finalidad que el alumnado reflexione de manera crítica sobre qué significa ser humano en un contexto marcado por el desarrollo tecnológico, especialmente en relación con el transhumanismo y la inteligencia artificial.<br /><strong>Conceptos filosóficos a estudiar</strong>: <br />- La identidad personal<br />- La relación mente-cuerpo<br />- La distinción entre realidad y virtualidad<br />- Los límites del transhumanismo<br /><strong>Metodologías</strong>: El aprendizaje se desarrollará mediante metodologías activas como el aprendizaje cooperativo, el debate filosófico y el uso de herramientas digitales. Se fomentará la investigación autónoma, el análisis de fuentes diversas (textos filosóficos, audiovisuales, contenidos digitales) y la reflexión crítica.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777899095496-0wrrdo8vn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad Digital</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad Digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777899095496-0wrrdo8vn</odePageId>
+      <odeBlockId>block-1777899427877-pfaqzt6of</odeBlockId>
+      <blockName>Nos protegemos</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777899095496-0wrrdo8vn</odePageId>
+          <odeBlockId>block-1777899427877-pfaqzt6of</odeBlockId>
+          <odeIdeviceId>idevice-1777899427875-l7dk5dazp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Es importante, antes de comenzar a trabajar, que tengamos clara la importancia de la <strong>seguridad en las redes</strong> cuando las utilizamos. ¡De modo que pasemos a aprender sobre ello!<br />Acceso al Canva de <a href="https://drive.google.com/file/d/1SImyTKVJBNVPkrIlQ2QP0yOH_08eKlXi/view?usp=sharing" title="">Seguridad Digital</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777899427875-l7dk5dazp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es importante, antes de comenzar a trabajar, que tengamos clara la importancia de la <strong>seguridad en las redes</strong> cuando las utilizamos. ¡De modo que pasemos a aprender sobre ello!<br />Acceso al Canva de <a href=\"https://drive.google.com/file/d/1SImyTKVJBNVPkrIlQ2QP0yOH_08eKlXi/view?usp=sharing\" title=\"\">Seguridad Digital</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777899481837-fx10d9r3s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto Final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto Final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777899481837-fx10d9r3s</odePageId>
+      <odeBlockId>block-1777899510553-v8fzszvdl</odeBlockId>
+      <blockName>Producto Final</blockName>
+      <iconName>listen</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777899481837-fx10d9r3s</odePageId>
+          <odeBlockId>block-1777899510553-v8fzszvdl</odeBlockId>
+          <odeIdeviceId>idevice-1777899510550-liu2tsv97</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final será la creación de un <strong>podcast </strong>por parte del alumnado. Para ello, propondré el uso de varias herramientas digitales que permitan trabajar la producción del podcast.</p>
+<p>Para la creación y edición del podcast voy a recomendar principalmente "Spotify for Creators" y "Audacity".</p>
+<p>"<strong>Spotify for Creators</strong>" resulta muy adecuada porque permite grabar, editar y publicar podcasts desde dispositivos móviles o navegadores web de forma sencilla e intuitiva. Es gratuita y accesible para alumnado con un nivel medio-básico de competencia digital</p>
+<p>"<strong>Audacity</strong>" complementa el trabajo anterior ofreciendo una edición de audio más completa. Es software libre, compatible con los equipos del centro y permite mejorar la calidad del producto final incorporando música, efectos y cortes de audio de forma sencilla</p>
+<p>En cuanto al <strong>podcast</strong>, este puede presentarse como pista de audio o como vídeo, sin embargo, debe ir acompañado del guion. Se deben abordar los temas principales del temario, argumentando <strong>a favor o en contra</strong> de dichos temas. La edición no requiere de alta producción, pero se debe incluir la presentación con el nombre del grupo y una breve música de entrada, además de lo que quieran añadir creativamente hablando. Podrán tratar un tema libre, siempre y cuando se mantenga relacionado con el <strong>transhumanismo </strong>(inmortalidad, implantes, sentido de la vida, memoria…).</p>
+<p>El formato del audio será libre, es decir, podrá presentarse a modo de <strong>debate</strong>, una <strong>exposición </strong>de argumentos, una <strong>crítica </strong>o algún modo más creativo que se les ocurra. El tiempo establecido será de <strong>seis a siete minutos</strong> de extensión.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777899510550-liu2tsv97","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final será la creación de un <strong>podcast </strong>por parte del alumnado. Para ello, propondré el uso de varias herramientas digitales que permitan trabajar la producción del podcast.</p>\n<p>Para la creación y edición del podcast voy a recomendar principalmente \"Spotify for Creators\" y \"Audacity\".</p>\n<p>\"<strong>Spotify for Creators</strong>\" resulta muy adecuada porque permite grabar, editar y publicar podcasts desde dispositivos móviles o navegadores web de forma sencilla e intuitiva. Es gratuita y accesible para alumnado con un nivel medio-básico de competencia digital</p>\n<p>\"<strong>Audacity</strong>\" complementa el trabajo anterior ofreciendo una edición de audio más completa. Es software libre, compatible con los equipos del centro y permite mejorar la calidad del producto final incorporando música, efectos y cortes de audio de forma sencilla</p>\n<p>En cuanto al <strong>podcast</strong>, este puede presentarse como pista de audio o como vídeo, sin embargo, debe ir acompañado del guion. Se deben abordar los temas principales del temario, argumentando <strong>a favor o en contra</strong> de dichos temas. La edición no requiere de alta producción, pero se debe incluir la presentación con el nombre del grupo y una breve música de entrada, además de lo que quieran añadir creativamente hablando. Podrán tratar un tema libre, siempre y cuando se mantenga relacionado con el <strong>transhumanismo </strong>(inmortalidad, implantes, sentido de la vida, memoria…).</p>\n<p>El formato del audio será libre, es decir, podrá presentarse a modo de <strong>debate</strong>, una <strong>exposición </strong>de argumentos, una <strong>crítica </strong>o algún modo más creativo que se les ocurra. El tiempo establecido será de <strong>seis a siete minutos</strong> de extensión.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777899732390-rnvm39ncm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos (Alumnado)</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos (Alumnado)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777899732390-rnvm39ncm</odePageId>
+      <odeBlockId>block-1777899735248-dqggv6tnf</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777899732390-rnvm39ncm</odePageId>
+          <odeBlockId>block-1777899735248-dqggv6tnf</odeBlockId>
+          <odeIdeviceId>idevice-1777899735246-dlfslzy6t</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/javierperez79/recursos-digitales-para-el-podcast-filosofico-sobre-transhum-xj1fttg8ft4w4e3t?frame_id=page%3AjpInYT6qytCsqJ78loBJh" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777899795734-poaiiga54</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos (Docentes)</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos (Docentes)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777899795734-poaiiga54</odePageId>
+      <odeBlockId>block-1777899803619-zcjy2ingo</odeBlockId>
+      <blockName>Wakelet</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777899795734-poaiiga54</odePageId>
+          <odeBlockId>block-1777899803619-zcjy2ingo</odeBlockId>
+          <odeIdeviceId>idevice-1777899803616-evuommkur</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wakelet.com/wake/me2Bh9q3i58l844puhGle" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777899834299-akwgjca1e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea Temporal</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea Temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777899834299-akwgjca1e</odePageId>
+      <odeBlockId>block-1777899927764-3hs02f3z2</odeBlockId>
+      <blockName>Línea Temporal</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777899834299-akwgjca1e</odePageId>
+          <odeBlockId>block-1777899927764-3hs02f3z2</odeBlockId>
+          <odeIdeviceId>idevice-1777899927762-1jb1yry7a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de la SdA (recordemos que ocupa tres semanas, 9 sesiones) vamos a realizar <strong>diferentes actividades</strong>, utilizando <strong>diferentes herramientas</strong> y con <strong>grupos distintos</strong>. ¡Veamos lo que vamos a hacer en las próximas semanas para estar preparados para todo!<br />Enlace directo a la <a href="https://drive.google.com/file/d/1QWHLKR-5Hr6G9RnimCBEyZ5ISc0PHzjM/view?usp=sharing" title="">secuencia de actividades</a> (junto a las herramientas y agrupamientos) que realizaremos en cada sesión</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777899927762-1jb1yry7a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de la SdA (recordemos que ocupa tres semanas, 9 sesiones) vamos a realizar <strong>diferentes actividades</strong>, utilizando <strong>diferentes herramientas</strong> y con <strong>grupos distintos</strong>. ¡Veamos lo que vamos a hacer en las próximas semanas para estar preparados para todo!<br />Enlace directo a la <a href=\"https://drive.google.com/file/d/1QWHLKR-5Hr6G9RnimCBEyZ5ISc0PHzjM/view?usp=sharing\" title=\"\">secuencia de actividades</a> (junto a las herramientas y agrupamientos) que realizaremos en cada sesión</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777899998928-otbq815x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777899998928-otbq815x</odePageId>
+      <odeBlockId>block-1777900083528-ns1v7d4f9</odeBlockId>
+      <blockName>Tarea-criterio</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777899998928-otbq815x</odePageId>
+          <odeBlockId>block-1777900083528-ns1v7d4f9</odeBlockId>
+          <odeIdeviceId>idevice-1777900083527-v877wzsyo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cada tarea, a su vez, va a tener unos criterios asignados, de tal manera que podamos saber lo que se evalúa en cada momento de la SdA. <br />Enlace directo a la <a href="https://drive.google.com/file/d/1lTMuMZMDtC1VMNshrI-XnlT-zfVkJePY/view?usp=sharing" title="">relación tareas-criterios</a> de la SdA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777900083527-v877wzsyo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cada tarea, a su vez, va a tener unos criterios asignados, de tal manera que podamos saber lo que se evalúa en cada momento de la SdA. <br />Enlace directo a la <a href=\"https://drive.google.com/file/d/1lTMuMZMDtC1VMNshrI-XnlT-zfVkJePY/view?usp=sharing\" title=\"\">relación tareas-criterios</a> de la SdA.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777900211692-asmb9alpg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777900211692-asmb9alpg</odePageId>
+      <odeBlockId>block-1777900314358-ymg0wy72y</odeBlockId>
+      <blockName>Instrumentos</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777900211692-asmb9alpg</odePageId>
+          <odeBlockId>block-1777900314358-ymg0wy72y</odeBlockId>
+          <odeIdeviceId>idevice-1777900314354-xpg3xd58e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La SdA se va a evaluar mediante el uso de tres herramientas diferentes, de tal modo que a continuación se facilita el acceso a ellas para que el alumnado sepa, con anterioridad, la manera que tendremos de evaluarlos. </p>
+<p><a href="https://drive.google.com/file/d/1JQTHmBM6Hcm7PG39gdd0kr8A4NzeViEa/view?usp=sharing" title="">Acceso</a> tanto a las listas de cotejo como a la escala de valoración, así como a la rúbrica para evaluar el podcast. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777900314354-xpg3xd58e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La SdA se va a evaluar mediante el uso de tres herramientas diferentes, de tal modo que a continuación se facilita el acceso a ellas para que el alumnado sepa, con anterioridad, la manera que tendremos de evaluarlos. </p>\n<p><a href=\"https://drive.google.com/file/d/1JQTHmBM6Hcm7PG39gdd0kr8A4NzeViEa/view?usp=sharing\" title=\"\">Acceso</a> tanto a las listas de cotejo como a la escala de valoración, así como a la rúbrica para evaluar el podcast. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777901551515-wen42jbrh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Diseño Universal para el Aprendizaje</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diseño Universal para el Aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777901551515-wen42jbrh</odePageId>
+      <odeBlockId>block-1777901555983-qaxvrj8tw</odeBlockId>
+      <blockName>DUA</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777901551515-wen42jbrh</odePageId>
+          <odeBlockId>block-1777901555983-qaxvrj8tw</odeBlockId>
+          <odeIdeviceId>idevice-1777901555982-bhalx4wcr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Es importante que recordemos que el aula es diversa en sí misma, de tal manera que nos aseguremos de garantizar una educación accesible para todos y todas. <br title="" /><a href="https://drive.google.com/file/d/17Tc6ditIaf3smgup5qtOq1Ng3UBXMf3z/view?usp=sharing">Acceso</a> a las pautas DUA</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777901555982-bhalx4wcr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es importante que recordemos que el aula es diversa en sí misma, de tal manera que nos aseguremos de garantizar una educación accesible para todos y todas. <br title=\"\" /><a href=\"https://drive.google.com/file/d/17Tc6ditIaf3smgup5qtOq1Ng3UBXMf3z/view?usp=sharing\">Acceso</a> a las pautas DUA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777900413307-ghc0wp8ji</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777900413307-ghc0wp8ji</odePageId>
+      <odeBlockId>block-1777900453083-s63ayzxug</odeBlockId>
+      <blockName>Licencia</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777900413307-ghc0wp8ji</odePageId>
+          <odeBlockId>block-1777900453083-s63ayzxug</odeBlockId>
+          <odeIdeviceId>idevice-1777900453080-kpa4xjalu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autor</strong>: Javier Pérez Moreno<br />Docente de Filosofía – 1º de Bachillerato</p>
+<p><strong>Licencia</strong>: Creative Commons Reconocimiento – No Comercial – Compartir Igual (CC BY-NC-SA)</p>
+<p>Este recurso puede ser utilizado, adaptado y compartido siempre que se reconozca la autoría, no se utilice con fines comerciales y se mantenga la misma licencia.</p>
+<p><a href="https://github.com/javierperez34/SdA-Quiero-ser-inmortal-/blob/main/sda-inmortalidad%205.elpx" title="">Descargar archivo editable (.elp)</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777900453080-kpa4xjalu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autor</strong>: Javier Pérez Moreno<br />Docente de Filosofía – 1º de Bachillerato</p>\n<p><strong>Licencia</strong>: Creative Commons Reconocimiento – No Comercial – Compartir Igual (CC BY-NC-SA)</p>\n<p>Este recurso puede ser utilizado, adaptado y compartido siempre que se reconozca la autoría, no se utilice con fines comerciales y se mantenga la misma licencia.</p>\n<p><a href=\"https://github.com/javierperez34/SdA-Quiero-ser-inmortal-/blob/main/sda-inmortalidad%205.elpx\" title=\"\">Descargar archivo editable (.elp)</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
